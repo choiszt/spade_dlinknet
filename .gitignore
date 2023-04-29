@@ -1,0 +1,7 @@
+baidu/*
+*.pth
+SOTA/*
+weights/*
+submits/*
+*.th
+ablation_study/*

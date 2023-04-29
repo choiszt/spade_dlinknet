@@ -1,0 +1,5 @@
+
+Gpython:S1066-"/Merge this if statement with the enclosing one.(íÎ¶›
+;python:S125"Remove this commented out code.(º©ð¨ùÿÿÿÿ
+mpython:S1170"QRename this parameter "useBN" to match the regular expression ^[_a-z][a-z0-9_]*$.(ÂÚ­þøÿÿÿÿ
+5python:S125T"Remove this commented out code.(Ý«Ô#

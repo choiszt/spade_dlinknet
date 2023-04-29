@@ -1,0 +1,10 @@
+
+vpython:S1542"^Rename function "randomHueSaturationValue" to match the regular expression ^[a-z_][a-z0-9_]*$.(ãÉõ
+;python:S125"Remove this commented out code.(Ç˜¦ıÿÿÿÿ
+mpython:S117#"VRename this parameter "borderMode" to match the regular expression ^[_a-z][a-z0-9_]*$.(ïÇõ
+spython:S1542"\Rename function "randomShiftScaleRotate" to match the regular expression ^[a-z_][a-z0-9_]*$.(å–â*
+rpython:S1542E"ZRename function "randomHorizontalFlip" to match the regular expression ^[a-z_][a-z0-9_]*$.(ÄîºĞ
+upython:S1542L"XRename function "randomVerticleFlip" to match the regular expression ^[a-z_][a-z0-9_]*$.(Øåıºÿÿÿÿÿ
+lpython:S1542S"TRename function "randomRotate90" to match the regular expression ^[a-z_][a-z0-9_]*$.(–€œ
+6python:S125q"Remove this commented out code.(ÈûÁé
+Cpython:S5806}"+Rename this variable; it shadows a builtin.(ŒáÇõ
